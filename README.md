@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1>Olá, Mundo! Eu sou Gabriela Cardoso, uma adolescente aprendendo programação.</h1>
 
-<!--
-**gabb01000011/gabb01000011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Sobre mim</h2>
 
-Here are some ideas to get you started:
+<ul>
+  <li>Atualmente estou aprendendo HTML e CSS</li>
+  <li>Fluente em inglês</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Contato</h2>
+
+<ul>
+  <li>E-mail: gabi00781405@gmail.com</li>
+</ul>
+
+<h1>Sobre meus conhecimentos</h1>
+
+<h2>Principal plataforma de estudo</h2>
+<ul>
+  <li>Curso em vídeo</li>
+</ul>
+
+<h2>Frontend</h2>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
